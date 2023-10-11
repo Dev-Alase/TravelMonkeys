@@ -79,9 +79,9 @@ h2{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  top : 850px;
+  top : 830px;
   left : 1650px;
-  color: whitesmoke;
+  color: black;
 }
 
 .button-52:after {
